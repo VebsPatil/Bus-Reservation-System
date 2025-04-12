@@ -1,0 +1,30 @@
+
+.bg-border{
+    border: 0px solid black;
+    padding: 20px 50px;
+    margin-top: 10vh;
+    height: 90%;
+    -webkit-box-shadow: 15px 14px 33px 19px rgba(0,0,0,0.75);
+    -moz-box-shadow: 15px 14px 33px 19px rgba(0,0,0,0.75);
+    box-shadow: 15px 14px 33px 19px rgba(0,0,0,0.75);
+}
+
+.modal-title {
+    text-align: center;
+    font-size: 1.8rem;
+    margin-left: 40%;
+    letter-spacing: 2px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.d-flex {
+    display: flex !important;
+    margin-right: 35px;
+}
+
+.btn{
+    color: white;
+    margin-right: 6px;
+    text-decoration: none;
+    font-weight: 600;
+}
